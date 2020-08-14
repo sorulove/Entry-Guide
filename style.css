@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Lemonada:wght@500&display=swap');
+
+
 .btn {
   border: 2px solid black;
   background-color: white;
@@ -23,6 +26,8 @@ header {
  text-align:center;
  background-color:#474e5d;
  padding:45px;
+  font-family: 'Kosugi Maru', sans-serif;
+font-family: 'Lemonada', cursive;
 }
 
 #align {
