@@ -9,4 +9,6 @@ header{
 }
 p {
  font-family: 'Kosugi Maru', sans-serif;
+ width:300px;
+ margin:auto;
 }
