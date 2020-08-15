@@ -10,7 +10,7 @@ header{
 #align {
  font-family: 'Kosugi Maru', sans-serif;
  width:300px;
- font-size:4rem;
+ font-size:90px;
  margin:auto;
 }
 
@@ -24,6 +24,6 @@ header{
 }
 
 .go {
-  border-color: #ffccff;
+  border-color: #4CAF50;
   color: green;
 }
