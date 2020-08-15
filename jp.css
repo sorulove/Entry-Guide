@@ -27,3 +27,8 @@ header{
   border-color: #4CAF50;
   color: green;
 }
+
+.go:hover {
+  background-color: #4CAF50;
+  color: white;
+}
