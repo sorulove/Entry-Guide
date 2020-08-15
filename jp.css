@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
 
-header,p {
+header{
+ font-family: 'Kosugi Maru', sans-serif;
+ background-color:#ffccff;
+ text-align:center;
+ color:white;
+ padding:40px;
+}
+p {
  font-family: 'Kosugi Maru', sans-serif;
 }
