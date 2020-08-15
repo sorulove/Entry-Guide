@@ -7,3 +7,6 @@ https://entry.line.me/
 
 이 사이트 링크
 https://sorulove.github.io/Entry-Guide/
+
+favicon 코드입니다.
+<link rel="shortcut icon" href="lelogo.png" type="image/x-icon">
