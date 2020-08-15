@@ -9,4 +9,4 @@ https://entry.line.me/
 https://sorulove.github.io/Entry-Guide/
 
 favicon 코드입니다.
-<link rel="shortcut icon" href="lelogo.png" type="image/x-icon">
+``<link rel="shortcut icon" href="lelogo.png" type="image/x-icon">``
